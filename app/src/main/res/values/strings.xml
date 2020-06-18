@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Facebook Login Page</string>
+    <string name="register">Name</string>
+    <string name="dob">Birthday</string>
+    <string name="gender">Gender</string>
+    <string name="mobilenumber">Mobile Number</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="find">Find Your Account</string>
+</resources>
